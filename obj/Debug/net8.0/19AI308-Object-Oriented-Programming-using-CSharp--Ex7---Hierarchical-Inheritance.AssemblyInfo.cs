@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("19AI308-Object-Oriented-Programming-using-CSharp--Ex7---Hierarchical-Inheritance")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3c457451a27ca7a1a56991f2c432b6e9ab79c103")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+06ad7dfc1b7ad99a0c73adc142b975fb87eda588")]
 [assembly: System.Reflection.AssemblyProductAttribute("19AI308-Object-Oriented-Programming-using-CSharp--Ex7---Hierarchical-Inheritance")]
 [assembly: System.Reflection.AssemblyTitleAttribute("19AI308-Object-Oriented-Programming-using-CSharp--Ex7---Hierarchical-Inheritance")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
